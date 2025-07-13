@@ -1,0 +1,9 @@
+###  `requirements.txt`
+
+gradio
+openai
+transformers
+langchain
+pandas
+numpy
+jupyter
